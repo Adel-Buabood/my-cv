@@ -19,7 +19,7 @@ GPA: 3.83
 
 ---
 
-## 🚀 Featured Project: Sprout 
+## Featured Project: Sprout 
 **Senior Project – University of Bahrain**
 
 Sprout is a community-driven marketplace platform tailored for Bahrain, designed to connect local users in a seamless, modern ecosystem. 
@@ -29,6 +29,6 @@ Sprout is a community-driven marketplace platform tailored for Bahrain, designed
 
 ---
 
-## 📬 Let's Connect!
+## Let's Connect!
 * **Email:** [Adeljassim2014@gmail.com]
 * **LinkedIn:** [linkedin.com/in/adel-buabood-8b74083aa]
